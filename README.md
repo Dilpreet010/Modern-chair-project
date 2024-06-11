@@ -13,27 +13,39 @@ This project showcases a product page for the Telford Lounge chair, designed to 
 • Pricing Display: Displays original and discounted prices.
 
 • Selectors:
+
    • Adjacent Sibling Selector: Used for styling elements immediately following a specified element.
+   
    • General Sibling Selector: Used for styling elements that follow a specified element, not necessarily immediately.
    
 # Technologies Used
 • HTML5: For the basic structure of the webpage.
+
 • CSS3: For styling, animations, and responsive design   
 
 # File Structure
 • index.html: The main HTML file that contains the structure of the webpage.
+
 • styles.css: The CSS file that includes styles and animations.
 
 # Detailed Explanation
 • HTML
+
    • The main structure includes sections for the product image, product name, pricing, description, and color selection.
+   
    • An Add to Cart button is provided for users to make a purchase.
+   
 • CSS
+
    • Responsive Design:
-       • Media queries are used to adjust the layout for different screen sizes.
-       • Flexbox is utilized for flexible layout structures.
+   
+        Media queries are used to adjust the layout for different screen sizes.
+        
+        Flexbox is utilized for flexible layout structures.
 • Animations:
+
     CSS animations and transitions are applied to elements to enhance user interaction.
+    
        •Selectors:
        
           •Adjacent Sibling Selector (+):
