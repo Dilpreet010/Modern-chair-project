@@ -5,9 +5,13 @@ This project showcases a product page for the Telford Lounge chair, designed to 
 
 # Features
 • Responsive Design: The webpage adjusts smoothly to various screen sizes, ensuring a seamless experience across devices.
+
 • Animations: Subtle animations enhance the user experience, making interactions more engaging.
+
 • Color Selection: Users can choose from different color options for the chair.
+
 • Pricing Display: Displays original and discounted prices.
+
 • Selectors:
    • Adjacent Sibling Selector: Used for styling elements immediately following a specified element.
    • General Sibling Selector: Used for styling elements that follow a specified element, not necessarily immediately.
